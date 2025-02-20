@@ -1,0 +1,2 @@
+jsonobject: com.google.gson.JsonObject
+jsonparser: com.google.gson.JsonParser
