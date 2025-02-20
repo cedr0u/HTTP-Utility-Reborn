@@ -1,0 +1,18 @@
+{
+	"id": "http-utility",
+	"weight": 3000,
+	"supportedversions": [
+	  2024001,
+	  2024002,
+	  2024003,
+	  2024004,
+	  2024452410
+	],
+	"info": {
+	  "name": "HTTP utility",
+	  "version": "1.2.0",
+	  "description": "A plugin to allow communication with an external API via HTTP requests",
+	  "author": "By ddemile | Ported & Updated By cedr0u and 2231puppy"
+	}
+  }
+  
